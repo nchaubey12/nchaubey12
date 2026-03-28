@@ -5,7 +5,7 @@
 
 [![Followers](https://img.shields.io/github/followers/nchaubey12?label=Followers&style=social)](https://github.com/nchaubey12?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nidhichaubey1605-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nidhichaubey1605/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nportfolio-orange?style=flat&logo=github)](https://github.com/nchaubey12/nportfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nportfolio-orange?style=flat&logo=github)]([https://github.com/nchaubey12/nportfolio](https://nchaubey12.github.io/nportfolio/nidhi16_portfolio)
 ![Profile Views](https://komarev.com/ghpvc/?username=nchaubey12&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
@@ -81,7 +81,7 @@ I'm a **full-stack developer and AI enthusiast** based in **Leipzig, Germany**, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhichaubey1605/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nchaubey12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/nchaubey12/nportfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=githubpages&logoColor=white)]([https://github.com/nchaubey12/nportfolio](https://nchaubey12.github.io/nportfolio/nidhi16_portfolio)
 
 </div>
 
